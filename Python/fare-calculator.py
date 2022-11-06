@@ -1,6 +1,3 @@
-## LEWIS, PAOLO ICT 102
-## DecisionStructure2.py
-
 ## input
 km_travelled = float(input("Distance Traveled(km): "))
 duration = float(input("Duration of Ride(minutes): "))
