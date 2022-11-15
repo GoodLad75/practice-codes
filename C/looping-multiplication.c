@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Multiplication Table
 int main() {
   int i,userInput,multiple;
   
