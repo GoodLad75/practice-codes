@@ -12,7 +12,7 @@ int main(void) {
     scanf("%d", &finals);
 
     if (prelim > 0 && midterm > 0 && finals > 0) {
-        if (prelim <= 100 && midterm<= 100 && finals <= 100){
+        if (prelim <= 100 && midterm <= 100 && finals <= 100){
             average = (prelim + midterm + finals) / 3;
             printf("Average: %d", average);
         }

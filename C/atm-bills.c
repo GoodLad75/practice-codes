@@ -19,7 +19,7 @@ int main(void) {
     if (totalamt >= 1000){
         thousands = totalamt / 1000;
         totalamt = totalamt - (thousands * 1000);
-    }
+    } 
     
     if (totalamt >= 500){
         five_hundreds = totalamt / 500;
@@ -59,6 +59,7 @@ int main(void) {
     if (totalamt >= 1){
         ones = totalamt / 1;
     }
+
 
     //FOR CENTS//
     if (cents >= 25){

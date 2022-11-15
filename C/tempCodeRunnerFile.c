@@ -1,0 +1,1 @@
+            printf("Average: %d", average);
