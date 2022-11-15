@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Basic grade calculator
 int main(void) {
     
     int prelim, midterm, finals,average;
