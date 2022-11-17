@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Bills counter
 int main(void) {
 
     float amount,cents;

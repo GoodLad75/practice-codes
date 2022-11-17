@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Basic Grade Calculator
 int main(void)
 {
     int grade_ctr,grade,average=0,i;
