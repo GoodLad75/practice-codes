@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.h>
+//DO WHILE LOOP
 
 int main(void)
 {
