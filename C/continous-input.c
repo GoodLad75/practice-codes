@@ -16,10 +16,7 @@ int main(void){
 
         sum = sum + usr_input;
 
-        if (sum > 2000) {
-            break;
-        }
-        else if (sum > 499 && sum < 999) {
+        if (sum > 499 && sum < 999) {
             printf("You're off to a good start.\n");
             
         }
