@@ -19,7 +19,7 @@ int main(void){
         if (sum > 2000) {
             break;
         }
-        else if (sum > 499 && sum < 999) {
+        if (sum > 499 && sum < 999) {
             printf("You're off to a good start.\n");
             
         }
@@ -32,7 +32,7 @@ int main(void){
         }
         
     }
-
+    
     printf("Congratulations! Your total sales are: %d", sum);
     
 }
