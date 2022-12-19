@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LoanSwitch {
+public class DecisionsLoanSwitch {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
        final double PROCESS_FEE = 350.00;
