@@ -54,7 +54,7 @@ void InsertInPosition(struct Node** head_ref, int position) {
     Provide a notification message inputted position is found in the linked list.*/
 
     char val;
-    printf("Enter the data for the node: ");
+    printf("Enter a character: ");
     scanf(" %c", &val);
     struct Node *new_node = (struct Node *)malloc(sizeof(struct Node));
     new_node->data = val;
